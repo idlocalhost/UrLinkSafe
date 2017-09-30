@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="09/forex-trader-and-technical-analysis.html"}
 if(x=="2"){xxx="09/hedging-can-reduce-your-forex-risk.html"}
-if(x=="3"){xxx="how-to-combine-different-indicators.html"}
+if(x=="3"){xxx="09/how-to-combine-different-indicators.html"}
 if(x=="4"){xxx="09/is-forex-managed-account-for-you.html"}
 if(x=="5"){xxx="09/the-psychological-factors-of-forex.html"}a_to_ve[i].href="https://urlinksafe.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
